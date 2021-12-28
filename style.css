@@ -1,0 +1,28 @@
+.heading{
+width: 80%;
+font-size: 22px;
+}
+
+body{
+    background-color: pink;
+    color:white;
+}
+
+#object_name,#object_accuracy{
+    color:crimson;
+}
+
+.name_of_object{
+    background-color: rgb(67, 67, 190);
+    color: white;
+    font-size: 240%;
+    
+    
+}
+
+#webcam{
+    border: 2px dashed brown;
+    width: 350px;
+    height: 300px;
+}
+
